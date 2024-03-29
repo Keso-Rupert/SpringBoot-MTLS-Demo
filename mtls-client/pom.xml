@@ -9,7 +9,7 @@
 	</parent>
 
 	<groupId>dev.kesorupert</groupId>
-	<artifactId>tlsClientApplication</artifactId>
+	<artifactId>mtlsClientApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MtlsClientApplication</name>
 	<description>Demo project for Spring Boot MTLS - Client application</description>
