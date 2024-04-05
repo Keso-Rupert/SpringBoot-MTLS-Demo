@@ -1,4 +1,4 @@
-package dev.kesorupert.MtlsClientApplication;
+package dev.kesorupert.MtlsServerApplication;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
