@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 @Configuration
 public class RestTemplateConfiguration {
 
-    private String serverUrl = "http://localhost:8081";
+    private String serverUrl = "https://localhost:8081";
 
     @Bean
     public RestTemplate sslRestTemplate(RestTemplateBuilder builder, SslBundles sslBundles) {
